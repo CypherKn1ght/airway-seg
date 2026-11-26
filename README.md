@@ -58,10 +58,3 @@ The `generation` column is reported but is not reliable at this resolution, beca
 central airways are not segmented as one connected piece. Use diameter or Horsfield order as the
 airway-size axis.
 
-## Citation
-
-If you use this code, please cite: *[paper reference to be added]*.
-
-## License
-
-MIT, see `LICENSE`.
