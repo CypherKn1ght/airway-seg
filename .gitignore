@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.npz
+*.npy
+*.ims
+*.nii.gz
+out/
+*.log
